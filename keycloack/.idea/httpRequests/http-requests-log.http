@@ -1,0 +1,329 @@
+POST http://localhost:8080/auth/realms/fincycle/protocol/openid-connect/token
+Content-Type: application/x-www-form-urlencoded
+
+client_id=nest&client_secret=5305cb20-8dfd-4c1e-82e9-05e5d76cbffb&username=user1@user.com&password=123456&grant_type=password
+
+<> 2021-12-01T235337.200.json
+
+###
+
+POST http://localhost:8080/auth/realms/fincycle/protocol/openid-connect/token
+Content-Type: application/x-www-form-urlencoded
+
+client_id=nest&client_secret=5305cb20-8dfd-4c1e-82e9-05e5d76cbffb&username=user1@user.com&password=123456&grant_type=password
+
+<> 2021-12-01T235315.200.json
+
+###
+
+POST http://localhost:8080/auth/realms/fincycle/protocol/openid-connect/token
+Content-Type: application/x-www-form-urlencoded
+
+client_id=nest
+&client_secret=5305cb20-8dfd-4c1e-82e9-05e5d76cbffb
+&username=user1@user.com
+&password=123456
+&grant_type=password
+
+<> 2021-12-01T235236.400.json
+
+###
+
+POST http://localhost:8080/auth/realms/fincycle/protocol/openid-connect/token
+Content-Type: application/x-www-form-urlencoded
+
+username=user1@user.com
+&password=123456
+&client=nest
+&client_secret=e27c62eb-f5ef-454b-9048-60e7fa203c27
+&grant_type=password
+
+<> 2021-12-01T234543.400.json
+
+###
+
+POST http://localhost:8080/auth/realms/fincycle/protocol/openid-connect/token
+Content-Type: application/x-www-form-urlencoded
+
+username=user1@user.com
+&password=123456
+&client=nest
+&client_secret=e27c62eb-f5ef-454b-9048-60e7fa203c27
+&grant_type=password
+
+<> 2021-12-01T234540.400.json
+
+###
+
+POST http://localhost:8080/auth/realms/fincycle/protocol/openid-connect/token
+Content-Type: application/x-www-form-urlencoded
+
+username=user1@user.com
+&password=123456
+&client=nest
+&client_secret=e27c62eb-f5ef-454b-9048-60e7fa203c27
+&grant_type=password
+
+<> 2021-12-01T234513.400.json
+
+###
+
+POST http://localhost:8080/auth/realms/fincycle/protocol/openid-connect/token
+Content-Type: application/x-www-form-urlencoded
+
+username=user1@user.com
+&password=123456
+&client=nest
+&client_secret=e27c62eb-f5ef-454b-9048-60e7fa203c27
+&grant_type=password
+
+<> 2021-12-01T234425.400.json
+
+###
+
+POST http://localhost:8080/auth/realms/fincycle/protocol/openid-connect/token
+Content-Type: application/x-www-form-urlencoded
+
+username=user1@user.com
+&password=123456
+&client=nest
+&client_secret=e27c62eb-f5ef-454b-9048-60e7fa203c27
+&grant_type=password
+
+<> 2021-12-01T234328.400.json
+
+###
+
+POST http://localhost:8080/auth/realms/fincycle/protocol/openid-connect/token
+Content-Type: application/x-www-form-urlencoded
+
+username=user1@user.com
+&password=123456
+&client=nest
+&client_secret=e27c62eb-f5ef-454b-9048-60e7fa203c27
+&grant_type=password
+
+<> 2021-12-01T233940.400.json
+
+###
+
+POST http://localhost:8080/auth/realms/fincycle/protocol/openid-connect/token
+Content-Type: application/x-www-form-urlencoded
+
+username=user1@user.com
+&password=123456
+&client=nest
+&client_secret=e27c62eb-f5ef-454b-9048-60e7fa203c27
+&grant_type=password
+
+<> 2021-12-01T233929.400.json
+
+###
+
+POST http://localhost:8080/auth/realms/fincycle/protocol/openid-connect/token
+Content-Type: application/x-www-form-urlencoded
+
+username=user1@user.com
+&password=123456
+&client_id=nest
+&client_secret=94c77a29-37a6-4eed-bb14-cb288972f788
+&grant_type=password
+
+<> 2021-12-01T233615.400.json
+
+###
+
+POST http://localhost:8080/auth/realms/fincycle/protocol/openid-connect/token
+Content-Type: application/x-www-form-urlencoded
+
+username=user1@user.com
+&password=123456
+&client_id=nest
+&client_secret=94c77a29-37a6-4eed-bb14-cb288972f788
+grant_type=password
+
+<> 2021-12-01T233609.400.json
+
+###
+
+POST http://localhost:8080/auth/realms/fincycle/protocol/openid-connect/token
+Content-Type: application/x-www-form-urlencoded
+
+grant_type=password
+&client_id=nest
+&client_secret=94c77a29-37a6-4eed-bb14-cb288972f788
+&username=user1@user.com
+&password=123456
+
+<> 2021-12-01T233556.400.json
+
+###
+
+POST http://localhost:8080/auth/realms/fincycle/protocol/openid-connect/token
+Content-Type: boundary=
+client_id=nest&client_secret=94c77a29-37a6-4eed-bb14-cb288972f788&username=user1@user.com&password=123456&grant_type=password:
+
+###
+
+POST http://localhost:8080/auth/realms/fincycle/protocol/openid-connect/token
+Content-Type: text/plain
+client_id=nest&client_secret=94c77a29-37a6-4eed-bb14-cb288972f788&username=user1@user.com&password=123456&grant_type=password:
+
+###
+
+POST http://localhost:8080/auth/realms/fincycle/protocol/openid-connect/token
+Content-Type: application/x-www-form-urlencoded
+
+client_id=nest
+&client_secret=94c77a29-37a6-4eed-bb14-cb288972f788
+&username=user1@user.com
+&password=123456
+&grant_type=password
+
+<> 2021-12-01T233411.400.json
+
+###
+
+POST http://localhost:8080/auth/realms/fincycle/protocol/openid-connect/token
+Content-Type: application/x-www-form-urlencoded
+
+client_id=nest
+&client_secret=94c77a29-37a6-4eed-bb14-cb288972f788
+&username=user1@user.com
+&password=123456
+&grant_type=password
+
+<> 2021-12-01T233347.400.json
+
+###
+
+POST http://localhost:8080/auth/realms/fincycle/protocol/openid-connect/token
+Content-Type: application/x-www-form-urlencoded
+
+client_id=nest
+&client_secret=94c77a29-37a6-4eed-bb14-cb288972f788
+&userName=user1@user.com
+&password=123456
+&grant_type=password
+
+<> 2021-12-01T233341.400.json
+
+###
+
+POST http://localhost:8080/auth/realms/fincycle/protocol/openid-connect/token
+Content-Type: application/x-www-form-urlencoded
+
+client_id=nest
+&client_secret=94c77a29-37a6-4eed-bb14-cb288972f788
+&username=user1@user1.com
+&password=123456
+&grant_type=password
+
+<> 2021-12-01T233313.400.json
+
+###
+
+POST http://localhost:8080/auth/realms/fincycle/protocol/openid-connect/token
+Content-Type: application/x-www-form-urlencoded
+
+client_id=nest
+&client_secret=94c77a29-37a6-4eed-bb14-cb288972f788
+&username=user1@user.com
+&password=123456
+&grant_type=password
+
+<> 2021-12-01T233304.400.json
+
+###
+
+POST http://localhost:8080/auth/realms/fincycle/protocol/openid-connect/token
+Content-Type: application/x-www-form-urlencoded
+
+client_id=nest
+&client_secret=94c77a29-37a6-4eed-bb14-cb288972f788
+&grant_type=password
+&userName=user1@user.com
+&password=123456
+
+<> 2021-12-01T233256.400.json
+
+###
+
+POST http://localhost:8080/auth/realms/fincycle/protocol/openid-connect/token
+Content-Type: application/x-www-form-urlencoded
+
+client_id=nest
+&client_secret=94c77a29-37a6-4eed-bb14-cb288972f788
+&grant_type=password
+&username=user1@user.com
+&password=123456
+
+<> 2021-12-01T233243.400.json
+
+###
+
+POST http://localhost:8080/auth/realms/fincycle/protocol/openid-connect/token
+Content-Type: application/x-www-form-urlencoded
+
+client_id=nest
+&client_secret=94c77a29-37a6-4eed-bb14-cb288972f788
+&grant_type=confidential
+&username=user1@user.com
+&password=123456
+
+<> 2021-12-01T233220.400.json
+
+###
+
+POST http://localhost:8080/auth/realms/fincycle/protocol/openid-connect/token
+Content-Type: application/x-www-form-urlencoded
+
+&client_id=nest
+&client_secret=94c77a29-37a6-4eed-bb14-cb288972f788
+&grant_type=password
+&username=user1@user.com
+&password=123456
+
+<> 2021-12-01T233212.400.json
+
+###
+
+POST http://localhost:8080/auth/realms/fincycle/protocol/openid-connect/token
+Content-Type: application/x-www-form-urlencoded
+
+client_id=nest
+&client_secret=94c77a29-37a6-4eed-bb14-cb288972f788
+&grant_type=password
+&username=user1@user.com
+&password=123456
+
+<> 2021-12-01T233111.400.json
+
+###
+
+POST http://localhost:8080/auth/realms/fincycle/protocol/openid-connect/token
+Content-Type: application/x-www-form-urlencoded
+
+client_id=nest
+&client_secret=94c77a29-37a6-4eed-bb14-cb288972f788
+&grant_type=password
+&username=user1@user.com
+&password=123456
+
+<> 2021-12-01T232951.400.json
+
+###
+
+POST http://localhost:8080/auth/realms/fincycle/protocol/openid-connect/token
+Content-Type: application/x-www-form-urlencoded
+
+client_id=nest
+&client_secret=94c77a29-37a6-4eed-bb14-cb288972f788
+&grant_type=password
+&username=user1@user.com
+&password=123456
+
+<> 2021-12-01T232935.400.json
+
+###
+
