@@ -7,6 +7,7 @@ export class TenantGuard implements CanActivate {
 
   async canActivate(context: ExecutionContext): Promise<boolean> {
     const request = context.switchToHttp().getRequest();
+    console.log(request);
     const subdomain = request.user.subdomain;
     await this.tenantService.setTenantBy(subdomain);
     return true;
